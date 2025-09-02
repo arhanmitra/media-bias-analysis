@@ -1,4 +1,3 @@
-# media-bias
 # Political Polarization in News Media Headlines
 
 ## Objective
