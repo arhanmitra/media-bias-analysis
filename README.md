@@ -34,5 +34,4 @@ This project explores whether news outlets with different political leanings (Le
 
 ---
 
-## Example Output
 
